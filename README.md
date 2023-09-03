@@ -3,6 +3,6 @@
 
 // Descarga el script
 ```
-wget https://raw.githubusercontent.com/netfreeplus/Mullti-script/main/Plus && chmod 777 Plus && ./Plus
+wget https://raw.githubusercontent.com/netfreeplus/CloudFF/main/Plus && chmod 777 Plus && ./Plus
 
 ```
