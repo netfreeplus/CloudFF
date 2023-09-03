@@ -1,3 +1,8 @@
-# MULT-SCRIPT
-,,,
-wget https://raw.githubusercontent.com/Lockednet/MULT-SCRIPT/main/Plus && chmod 777 Plus && ./Plus ,,,
+# Instacion
+
+
+// Descarga el script
+```
+wget https://raw.githubusercontent.com/netfreeplus/Mullti-script/main/Plus && chmod 777 Plus && ./Plus
+
+```
